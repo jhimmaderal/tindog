@@ -1,0 +1,136 @@
+body {
+  font-family: Montserrat;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+#pricing {
+  text-align: center;
+  padding: 3%;
+  margin: auto;
+}
+
+/* Text */
+.meet-desc {
+  margin: 2rem auto;
+  font-family: Montserrat;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+  color: white;
+}
+
+.feat-head {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.feat-desc {
+  color: grey;
+  font-size: .8rem;
+}
+
+.testi-desc {
+  font-size: 2rem;
+}
+
+h3{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.price-hd2{
+  font-weight: bold;
+}
+.price-desc{
+  font-size: .8rem;
+  color: grey;
+}
+
+/* column */
+.features-box {
+  text-align: center;
+  padding: 5%;
+}
+
+/* Button */
+/* Container */
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* Image */
+.phne-img {
+  width: 60%;
+  position: relative;
+  margin: 10% 30%;
+  transform: rotate(20deg);
+}
+
+.testi-img {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.press-img {
+  width: 15%;
+  margin: 20px;
+}
+
+/* Carousel */
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Card */
+.card {
+  width: 18rem;
+  height: 20rem;
+}
+
+
+/* Icon */
+.feat-icn {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.feat-icn:hover {
+  color: #ef4c68;
+}
+
+/* Navigation Bar */
+.navbar-brand {
+  font-family: Pacifico;
+  font-size: 2rem;
+}
+
+.nav-item {
+  padding: 0 0 .4.5rem;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: Montserrat;
+  font-weight: 300;
+}
